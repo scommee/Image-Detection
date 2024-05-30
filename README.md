@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to leverage image detection technology, specifically Convolutional Neural Networks (CNNs), to develop a model capable of accurately predicting whether a patient has pneumonia or not based on X-ray images. The process involves importing X-ray images from Google Drive, preprocessing steps such as image resizing and data augmentation, splitting the dataset into training, validation, and test sets, and implementing a classification model for pneumonia detection.
+This project aims to leverage image detection technology, specifically Convolutional Neural Networks (CNNs), to develop a model capable of accurately predicting whether a patient has pneumonia or not based on X-ray images. This is a process that is very difficult even for a doctor that has years of experience and highlights the vast impacts that image-detection can have in the healthcare sector. The process involves importing X-ray images from Google Drive, preprocessing steps such as image resizing and data augmentation, splitting the dataset into training, validation, and test sets, and implementing a classification model for pneumonia detection.
 
 ## Dataset
 
